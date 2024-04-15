@@ -1,0 +1,22 @@
+{
+    "sessions": [{
+        "exercises": [
+            {
+                "duration": 1,
+                "reps": 1,
+                "sets": 1,
+                "name": "jump",
+                "weight": 1
+            },
+            {
+                "duration": 1,
+                "reps": 1,
+                "sets": 1,
+                "name": "squat",
+                "weight": 1
+            }
+        ],
+        "name": "A"
+    }],
+    "name": "My work out"
+}

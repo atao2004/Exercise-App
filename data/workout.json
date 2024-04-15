@@ -1,0 +1,10 @@
+{
+    "sessions": [{"exercises": [{
+        "duration": 1,
+        "reps": 1,
+        "sets": 1,
+        "name": "hi",
+        "weight": 1
+    }]}],
+    "name": "My Workout"
+}
