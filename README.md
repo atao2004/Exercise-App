@@ -2,6 +2,9 @@
 
 ## A Fitness Tracker
 
+<img width="1434" alt="Screenshot 2024-05-09 at 11 01 50 PM" src="https://github.com/atao2004/Exercise-App/assets/148929819/22e1cfbc-2c51-4f78-ac5a-6948ec3c3c7d">
+
+
 **What the Application Does**
 
 This application lets users track their daily physical activity. Users can store their exercises and or routines that they perform frequently. The application enables users to track the duration and other metrics associated with each exercise. The application keeps a *history* of exercises performed each day so users can refer back to exercises performed in the past. 
@@ -24,15 +27,29 @@ I am an individual that strongly believes in the power of health and fitness. I 
 - Display current and past days of exercise
 - Add previously performed exercise
 
-## User Stories
+## User Stories (A list of achieved goals for this project)
 - As a user, I want to be able to add an exercise to my daily exercise journal
+
+<img width="1440" alt="Screenshot 2024-05-09 at 11 02 47 PM" src="https://github.com/atao2004/Exercise-App/assets/148929819/96f560a6-68a9-4559-9b40-e360f2050747">
+
 - As a user, I want to be able to view a list of all my physical activity from the day
-- As a user, I want to be able to view a summary of my total calories burned from the day
-- As a user, I want to be able to view my total minutes exercised from the day
+- As a user, I want to be able to view my total calories burned from the exercise
+- As a user, I want to be able to view my total minutes exercised from the exercise
+
+<img width="1440" alt="Screenshot 2024-05-09 at 11 08 46 PM" src="https://github.com/atao2004/Exercise-App/assets/148929819/ed29c15f-c148-4642-a400-e78ae82e5bf7">
+
 - As a user, I want to be able to modify my last exercise entry
 - As a user, I want to be able to remove my exercise routines from my journal
 - As a user, I want to be able to save my exercise routines to file
+
+<img width="1440" alt="Screenshot 2024-05-09 at 11 20 36 PM" src="https://github.com/atao2004/Exercise-App/assets/148929819/43b528d9-8c0c-4fc3-b6d9-c32a925ec678">
+
+<img width="1440" alt="Screenshot 2024-05-09 at 11 22 16 PM" src="https://github.com/atao2004/Exercise-App/assets/148929819/0f69224b-bee7-41ae-af27-9fcd138a68fc">
+
+
 - As a user, I want to be able to load my exercise routines from file
+<img width="328" alt="Screenshot 2024-05-09 at 11 00 44 PM" src="https://github.com/atao2004/Exercise-App/assets/148929819/5879581c-622c-4916-8301-66ca8fc179a4">
+
 
 # Instructions for Grader
 
